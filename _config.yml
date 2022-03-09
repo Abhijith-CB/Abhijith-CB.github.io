@@ -24,9 +24,9 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+      #- repo-name
 
 social_media:
   # behance: your_username
@@ -47,9 +47,23 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: My shop
-    web_url: https://cbcomputerservices.business.site
-    image_url: https://lh3.googleusercontent.com/mlUCKwnX9GvxtFmeqFCk93FlpM-fmMwUdrl31sP3Z2m8n6Kxy35Y9ln39dHTtuTbi0VW2mJ3rNbPKBfGqhR9fcrGO4I53vjBkk9jU9YZS_gevtedjDA
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://www.python.org/static/img/python-logo.png
     
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
   
-
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
+    
+  - name: C++
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png
+    
+   - name: Raspberry Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
+    
