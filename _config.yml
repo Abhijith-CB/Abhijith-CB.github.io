@@ -6,7 +6,7 @@ plugins:
   - jekyll-github-metadata
   - jemoji
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/https://github.com/CBjr0096/CBjr0096.github.io/blob/master/_config.yml
 
 defaults:
   -
@@ -50,6 +50,6 @@ topics:
   - name: My shop
     web_url: https://cbcomputerservices.business.site
     image_url: https://lh3.googleusercontent.com/mlUCKwnX9GvxtFmeqFCk93FlpM-fmMwUdrl31sP3Z2m8n6Kxy35Y9ln39dHTtuTbi0VW2mJ3rNbPKBfGqhR9fcrGO4I53vjBkk9jU9YZS_gevtedjDA
-    description: Check out my shop.
+    
   
 
