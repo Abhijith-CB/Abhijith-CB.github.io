@@ -47,23 +47,23 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://www.python.org/static/img/python-logo.png
+   - name: Python
+     web_url: https://github.com/topics/python
+     image_url: https://www.python.org/static/img/python-logo.png
     
-  - name: Linux
-    web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+   - name: Linux
+     web_url: https://github.com/topics/linux
+     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
   
-  - name: Arduino
-    web_url: https://github.com/topics/arduino
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
+   - name: Arduino
+     web_url: https://github.com/topics/arduino
+     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
     
-  - name: C++
-    web_url: https://github.com/topics/cpp
-    image_url: https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png
+   - name: C++
+     web_url: https://github.com/topics/cpp
+     image_url: https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png
     
-  - name: Raspberry Pi
-    web_url: https://github.com/topics/raspberry-pi
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
+   - name: Raspberry Pi
+     web_url: https://github.com/topics/raspberry-pi
+     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
     
